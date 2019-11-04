@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Floodfill</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="x_coordinate">X Coordinate</string>
+    <string name="y_coordinate">Y Coordinate</string>
+    <string name="flood_fill">Flood Fill</string>
+</resources>
